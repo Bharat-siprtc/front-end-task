@@ -110,7 +110,7 @@ button.primary{
     gap: 10px;
 }
 .row-3 .card-container .card-item{
-    background-image: url(/img/moon.jpg);
+    background-image: url(img/moon.jpg);
     background-size: cover;
     border-radius: 8px;
     color: white;
@@ -123,12 +123,12 @@ button.primary{
 
 }
 .card-item+#cc2{
-    background-image: url(/img/flower.jpg);
+    background-image: url(img/flower.jpg);
     background-position: bottom;
     background-color: black;
 }
 .card-item+#cc3{
-    background-image: url(/img/river.jpg);
+    background-image: url(img/river.jpg);
     background-position: bottom;
     background-color: black;
 }
